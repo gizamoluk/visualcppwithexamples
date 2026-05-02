@@ -13,24 +13,40 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="ch5">
+      <UniqueIdentifier>{c4fb8b39-0eab-4ff5-970d-fb5460f7d463}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ch6">
+      <UniqueIdentifier>{7a779958-0b6d-433b-bed1-5b58336a5a15}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
+    <Text Include="..\ch5\readme.txt">
+      <Filter>ch5</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="stdafx.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="targetver.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="stdafx.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="VisualCppWithExample.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ch5\list5_2.cpp">
+      <Filter>ch5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ch5\listing5_3.cpp">
+      <Filter>ch5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ch6\Listing6_1.cpp">
+      <Filter>ch6</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ch6\Listing6_2.cpp">
+      <Filter>ch6</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ch6\listing6_3.cpp">
+      <Filter>ch6</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ch6\listing6_4.cpp">
+      <Filter>ch6</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

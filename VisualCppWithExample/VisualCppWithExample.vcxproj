@@ -142,14 +142,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <Text Include="..\ch5\readme.txt" />
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="stdafx.h" />
-    <ClInclude Include="targetver.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="..\ch5\list5_2.cpp" />
+    <ClCompile Include="..\ch5\listing5_3.cpp" />
+    <ClCompile Include="..\ch6\Listing6_1.cpp" />
+    <ClCompile Include="..\ch6\Listing6_2.cpp" />
+    <ClCompile Include="..\ch6\listing6_3.cpp" />
+    <ClCompile Include="..\ch6\listing6_4.cpp" />
     <ClCompile Include="VisualCppWithExample.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
