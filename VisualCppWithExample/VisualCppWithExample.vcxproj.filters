@@ -19,6 +19,9 @@
     <Filter Include="ch6">
       <UniqueIdentifier>{7a779958-0b6d-433b-bed1-5b58336a5a15}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ch7">
+      <UniqueIdentifier>{aef2d4a8-9b07-4322-9549-57f748c81de8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -50,6 +53,9 @@
     </ClCompile>
     <ClCompile Include="..\ch6\listing6_5.cpp">
       <Filter>ch6</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ch7\listing7_1.cpp">
+      <Filter>ch7</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
