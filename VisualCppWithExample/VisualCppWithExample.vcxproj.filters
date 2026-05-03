@@ -48,5 +48,8 @@
     <ClCompile Include="..\ch6\listing6_4.cpp">
       <Filter>ch6</Filter>
     </ClCompile>
+    <ClCompile Include="..\ch6\listing6_5.cpp">
+      <Filter>ch6</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
