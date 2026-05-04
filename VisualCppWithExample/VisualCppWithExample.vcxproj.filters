@@ -19,6 +19,12 @@
     <Filter Include="ch6">
       <UniqueIdentifier>{7a779958-0b6d-433b-bed1-5b58336a5a15}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ch7">
+      <UniqueIdentifier>{aef2d4a8-9b07-4322-9549-57f748c81de8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ch11">
+      <UniqueIdentifier>{9c0114ad-0674-4e78-8ab2-8e23a0cb3203}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -50,6 +56,12 @@
     </ClCompile>
     <ClCompile Include="..\ch6\listing6_5.cpp">
       <Filter>ch6</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ch7\listing7_1.cpp">
+      <Filter>ch7</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ch11\Listing11_1.cpp">
+      <Filter>ch11</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
