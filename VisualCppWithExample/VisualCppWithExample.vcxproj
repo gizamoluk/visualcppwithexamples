@@ -147,6 +147,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\ch11\Listing11_1.cpp" />
+    <ClCompile Include="..\ch14\listing14_19.cpp" />
     <ClCompile Include="..\ch5\list5_2.cpp" />
     <ClCompile Include="..\ch5\listing5_3.cpp" />
     <ClCompile Include="..\ch6\Listing6_1.cpp" />
@@ -155,7 +156,6 @@
     <ClCompile Include="..\ch6\listing6_4.cpp" />
     <ClCompile Include="..\ch6\listing6_5.cpp" />
     <ClCompile Include="..\ch7\listing7_1.cpp" />
-    <ClCompile Include="ch14\listing14_19.cpp" />
     <ClCompile Include="VisualCppWithExample.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

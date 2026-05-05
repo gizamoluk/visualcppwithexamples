@@ -66,7 +66,7 @@
     <ClCompile Include="..\ch11\Listing11_1.cpp">
       <Filter>ch11</Filter>
     </ClCompile>
-    <ClCompile Include="ch14\listing14_19.cpp">
+    <ClCompile Include="..\ch14\listing14_19.cpp">
       <Filter>ch14</Filter>
     </ClCompile>
   </ItemGroup>
