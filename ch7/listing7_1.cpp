@@ -4,14 +4,11 @@
 using namespace std;
 
 
-void listing6_4() 
+void listing7_1() 
 {
 	int i; double x; char a;
 	cout << "Enter an integer ->\t"; cin >> i;
 	cout << "Enter any letter ->\t"; cin >> a;
 	cout << "Enter real value ->\t"; cin >> x;
-	cout << "int\t" << i << endl;
-
-
-	
+	cout << "int\t" << i << endl;	
 }

@@ -11,7 +11,4 @@ void listing11_1()
 	cout << "Enter any letter ->\t"; cin >> a;
 	cout << "Enter real value ->\t"; cin >> x;
 	cout << "int\t" << i << endl;
-
-
-
 }

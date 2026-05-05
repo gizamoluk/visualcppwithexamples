@@ -25,6 +25,9 @@
     <Filter Include="ch11">
       <UniqueIdentifier>{9c0114ad-0674-4e78-8ab2-8e23a0cb3203}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ch14">
+      <UniqueIdentifier>{9eaf93f5-8ff8-49f6-8a59-b6e2f70f83ce}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -62,6 +65,9 @@
     </ClCompile>
     <ClCompile Include="..\ch11\Listing11_1.cpp">
       <Filter>ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="ch14\listing14_19.cpp">
+      <Filter>ch14</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
